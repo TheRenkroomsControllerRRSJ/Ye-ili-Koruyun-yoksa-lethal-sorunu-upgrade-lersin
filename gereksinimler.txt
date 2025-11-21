@@ -1,0 +1,20 @@
+*DIARY*
+pipfile lock şekilde
+flask = "*"
+jinja2 = "*"
+sqlalchemy = "*"
+flask-sqlalchemy = "*"
+speechrecognition = "*"
+pyaudio = "*"
+Venv(pipfile locksuz)
+*Discord Bot*
+pip install discord
+pip install tensorflow==2.14.0
+pip install keras==2.14.0
+pip install requests
+pip install numpy==1.24.3
+pip install Pillow
+*MEME GENERATOR*
+flask
+jinja 2
+Venv
