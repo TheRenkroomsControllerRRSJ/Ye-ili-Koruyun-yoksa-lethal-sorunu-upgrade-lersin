@@ -82,7 +82,7 @@ async def sound2(ctx):
     await ctx.send(file=ses)
 
 @bot.command()
-async def cevretemizmikirlimi(ctx):
+async def kontrol(ctx):
     if ctx.message.attachments:
         for attachment in ctx.message.attachments:
             try:
@@ -104,4 +104,5 @@ async def cevretemizmikirlimi(ctx):
 
 
 bot.run("Tokeni buraya yazın")
+
 
