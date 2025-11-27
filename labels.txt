@@ -1,0 +1,2 @@
+0 Temiz
+1 Kirli
