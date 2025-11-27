@@ -23,6 +23,6 @@ Güncellemeye bakalım.. Bu güncelleme, DIARY UYGULAMASINA GELİYOR, Daha önce
 
 Ayrıca Mem Generatörlerde doğayı koruma ile ilgili Mem yapmayı unutmayın
 
-Unutmadan, Branchlerden dosyaları indirip setupları okuyup kurabilirsiniz
+Unutmadan, Branchlerden dosyaları indirip setupları okuyup kurabilirsiniz, ama python 3.13 sürümünün yüklü olup olmadığını kontrol edin, gereksinimler.txt de denilen programları indirin
 
 See you soon..
