@@ -23,4 +23,6 @@ Güncellemeye bakalım.. Bu güncelleme, DIARY UYGULAMASINA GELİYOR, Daha önce
 
 Ayrıca Mem Generatörlerde doğayı koruma ile ilgili Mem yapmayı unutmayın
 
+Unutmadan, Branchlerden dosyaları indirip setupları okuyup kurabilirsiniz
+
 See you soon..
